@@ -1,6 +1,6 @@
 # Password Strength Checker
 This program checks the strength of passwords based on three criteria: length, presence of special characters, and inclusion of both upper and lower case letters.
-Introduction
+## Introduction
 This project serves as a simple password strength checker implemented in Java. It offers a PasswordStrengthChecker class that evaluates the strength of passwords based on specified criteria.
 
 Learning Objectives
